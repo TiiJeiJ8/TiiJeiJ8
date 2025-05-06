@@ -2,8 +2,6 @@
 Github Stats
 -->
 <p align="center">
- <h2 align="center">
- </h2>
  <p align="center">
   Github Stats
  </p>
