@@ -60,5 +60,13 @@ Github Stats
 </table>
 
 <p align="center">
-  <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=TiiJeiJ8&theme=nord" /> </div>
+  <div align="center">
+    <source
+      media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=TiiJeiJ8&theme=nord"
+    />
+    <source
+      media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=TiiJeiJ8&theme=flat"
+    />
+    <img src="https://github-profile-trophy.vercel.app/?username=TiiJeiJ8&theme=nord">
+  </div>
 </p>
