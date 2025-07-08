@@ -35,6 +35,9 @@ Github Stats
 <br/>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/TiiJeiJ8/count.svg" />
-  <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=TiiJeiJ8" /> </div>
+  <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=TiiJeiJ8&theme=rogue" /> </div>
+</p>
+
+<p align="center">
+  <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=TiiJeiJ8&theme=nord" /> </div>
 </p>
