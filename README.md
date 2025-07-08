@@ -35,7 +35,7 @@ Github Stats
 <br/>
 
 <p align="center">
-  <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=TiiJeiJ8&theme=rogue" /> </div>
+  <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=TiiJeiJ8&theme=xcode" /> </div>
 </p>
 
 <p align="center">
