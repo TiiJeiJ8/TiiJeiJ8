@@ -67,6 +67,6 @@ Github Stats
     <source
       media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=TiiJeiJ8&theme=flat"
     />
-    <img src="https://github-profile-trophy.vercel.app/?username=TiiJeiJ8&theme=nord">
+    <img src="https://github-profile-trophy.vercel.app/?username=TiiJeiJ8">
   </div>
 </p>
