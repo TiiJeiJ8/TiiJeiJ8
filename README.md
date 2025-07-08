@@ -1,11 +1,14 @@
 <!--
 Github Stats
 -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/TiiJeiJ8/count.svg" />
+</p>
+
 <div align="center">
 
   <!-- dynamic typing effect 动态打字效果 -->
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%20console.log(%22Hello%2C%20World!%22);TiiJeiJ8's%20here!&center=true&size=27)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);TiiJeiJ8's%20here!&center=true&size=27)](https://git.io/typing-svg)
 
 
   <!-- knock code pictures 敲代码的图片 -->
@@ -15,6 +18,12 @@ Github Stats
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture>
   <div>&nbsp;</div>
+</div>
+
+<!-- profile logo 个人资料徽标 -->
+<div>
+  <!-- visitor -->
+  <img src="https://komarev.com/ghpvc/?username=TiiJeiJ8&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
 </div>
 
 <p align="center">
