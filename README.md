@@ -5,7 +5,7 @@ Github Stats
 
   <!-- dynamic typing effect 动态打字效果 -->
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World!%22);TiiJeiJ8's%22here!&center=true&size=27)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%20console.log(%22Hello%2C%20World!%22);TiiJeiJ8's%20here!&center=true&size=27)](https://git.io/typing-svg)
 
 
   <!-- knock code pictures 敲代码的图片 -->
@@ -44,9 +44,16 @@ Github Stats
 
 <br/>
 
-<p align="center">
-  <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=TiiJeiJ8" /> </div>
-</p>
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TiiJeiJ8&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TiiJeiJ8&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=TiiJeiJ8&theme=xcode&bg_color=FF000000&hide_border=true" />
+      </picture>
+  </tr>
+</table>
 
 <p align="center">
   <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=TiiJeiJ8&theme=nord" /> </div>
