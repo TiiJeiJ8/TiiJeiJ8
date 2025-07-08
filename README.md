@@ -36,4 +36,5 @@ Github Stats
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/TiiJeiJ8/count.svg" />
+  <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=TiiJeiJ8" /> </div>
 </p>
