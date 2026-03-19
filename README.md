@@ -51,17 +51,14 @@ Github Stats
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TiiJeiJ8&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=TiiJeiJ8&theme=xcode&bg_color=FF000000&hide_border=true" />
       </picture>
+    </td>
   </tr>
 </table>
 
 <p align="center">
-  <div align="center">
-    <source
-      media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=TiiJeiJ8&theme=nord"
-    />
-    <source
-      media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=TiiJeiJ8&theme=flat"
-    />
-    <img src="https://github-profile-trophy.vercel.app/?username=TiiJeiJ8">
-  </div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=TiiJeiJ8&theme=nord" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=TiiJeiJ8&theme=flat" />
+    <img src="https://github-profile-trophy.vercel.app/?username=TiiJeiJ8" />
+  </picture>
 </p>
